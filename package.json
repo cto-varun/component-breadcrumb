@@ -1,0 +1,27 @@
+{
+    "name": "@ivoyant/component-breadcrumb",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "title": "Breadcrumb",
+    "description": "",
+    "icon": "",
+    "scripts": {
+        "start": "ist s",
+        "build": "ist b",
+        "storybook": "ist storybook",
+        "prepublish": "ist b -u"
+    },
+    "files": [
+        "dist",
+        ""
+    ],
+    "author": "",
+    "license": "",
+    "peerDependencies": {
+        "react": "^18.2.0"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@ivoyant/cli": "1.1.2"
+    }
+}

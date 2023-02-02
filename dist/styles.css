@@ -1,0 +1,22 @@
+.bread-crumb-card .ant-card-body {
+    padding: 14px 30px 32px;
+}
+
+.bread-crumb-card .ant-breadcrumb {
+    padding-bottom: 12px;
+    font-size: 12px;
+    line-height: 24px;
+    font-weight: 300;
+}
+
+.bread-crumb-card .ant-breadcrumb a {
+    color: #1f1f1f;
+}
+
+.bread-crumb-card h5.ant-typography {
+    margin-bottom: 0;
+    color: black;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 500;
+}
